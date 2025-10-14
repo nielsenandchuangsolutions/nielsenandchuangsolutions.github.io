@@ -9,3 +9,7 @@ Note: Exercises 10.70-72, Problems 7.2, 10.3, 10.5, and many circuit diagrams ar
 Volume 2 (Chapters 1, 3, 5-6, 11-12, Appendices) is in progress. Some (very) scattered solutions can be found [here](ncsols_vol2.pdf).
 
 Find any errors or have any questions/feedback/suggestions? Contact us at [this form](https://docs.google.com/forms/d/e/1FAIpQLSfDzYoEJGbXb13gX8RfjKaQPuN_ZNmABJdysyCw8_CjVeXMZg/viewform?usp=sharing&ouid=108671623993274844550).
+
+<p align="center">
+  <img src="DSC00231.JPG" />
+</p>
