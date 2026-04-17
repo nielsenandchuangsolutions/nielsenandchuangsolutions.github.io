@@ -4,7 +4,7 @@ Find Volume 1 of our solutions manual [here](ncsols_vol1.pdf).
 
 This volume focuses on physical aspects of quantum computation, and contains solutions to all exercises/problems in Chapters 2 (Introduction to quantum mechanics), 4 (Quantum circuits), 7 (Quantum computers: physical realization), 8 (Quantum noise and quantum operations), 9 (Distance measures for quantum information), and 10 (Quantum error-correction).
 
-Note: Exercises 10.70-72, Problems 7.2, 10.3, 10.5, and many circuit diagrams are currently unfinished. Check back for a fully completed volume very soon!
+Note: Problems 10.3 and 10.5 are currently in progress.
 
 Volume 2 (Chapters 1, 3, 5-6, 11-12, Appendices) is in progress. Some (very) scattered solutions can be found [here](ncsols_vol2.pdf).
 
